@@ -1,0 +1,110 @@
+[
+  {
+    "team": "Ultimate Móstoles",
+    "wins": "2",
+    "loses": "0",
+    "scoredGoals": "8",
+    "concededGoals": "3",
+    "yelloCards": "1",
+    "redCards": "0"
+  },
+  {
+    "team": "1K FC",
+    "wins": "2",
+    "loses": "0",
+    "scoredGoals": "7",
+    "concededGoals": "4",
+    "yelloCards": "0",
+    "redCards": "0"
+  },
+  {
+    "team": "Saiyans FC",
+    "wins": "2",
+    "loses": "0",
+    "scoredGoals": "5",
+    "concededGoals": "3",
+    "yelloCards": "3",
+    "redCards": "0"
+  },
+  {
+    "team": "Kunisports",
+    "wins": "2",
+    "loses": "0",
+    "scoredGoals": "3",
+    "concededGoals": "1",
+    "yelloCards": "1",
+    "redCards": "0"
+  },
+  {
+    "team": "El Barrio",
+    "wins": "1",
+    "loses": "1",
+    "scoredGoals": "7",
+    "concededGoals": "3",
+    "yelloCards": "1",
+    "redCards": "0"
+  },
+  {
+    "team": "Los Troncos FC",
+    "wins": "1",
+    "loses": "1",
+    "scoredGoals": "8",
+    "concededGoals": "8",
+    "yelloCards": "1",
+    "redCards": "0"
+  },
+  {
+    "team": "Porcinos FC",
+    "wins": "1",
+    "loses": "1",
+    "scoredGoals": "7",
+    "concededGoals": "7",
+    "yelloCards": "1",
+    "redCards": "0"
+  },
+  {
+    "team": "Rayo de Barcelona",
+    "wins": "1",
+    "loses": "1",
+    "scoredGoals": "7",
+    "concededGoals": "7",
+    "yelloCards": "0",
+    "redCards": "0"
+  },
+  {
+    "team": "Jijantes FC",
+    "wins": "0",
+    "loses": "2",
+    "scoredGoals": "4",
+    "concededGoals": "7",
+    "yelloCards": "2",
+    "redCards": "0"
+  },
+  {
+    "team": "XBUYER TEAM",
+    "wins": "0",
+    "loses": "2",
+    "scoredGoals": "3",
+    "concededGoals": "6",
+    "yelloCards": "1",
+    "redCards": "0"
+  },
+  {
+    "team": "Aniquiladores FC",
+    "wins": "0",
+    "loses": "2",
+    "scoredGoals": "3",
+    "concededGoals": "8",
+    "yelloCards": "0",
+    "redCards": "0"
+  },
+  {
+    "team": "PIO FC",
+    "wins": "0",
+    "loses": "2",
+    "scoredGoals": "1",
+    "concededGoals": "6",
+    "yelloCards": "3",
+    "redCards": "0"
+  }
+]
